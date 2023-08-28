@@ -181,8 +181,8 @@ SIMPLE_JWT = {
 
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:2020",
-    "http://127.0.0.1:2020",
+    "http://localhost:2021",
+    "http://127.0.0.1:2021",
 ]
 
 CORS_ORIGIN_ALLOW_ALL = True
