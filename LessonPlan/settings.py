@@ -32,7 +32,7 @@ SECRET_KEY = config('SECRET_KEY')
 # DEBUG = config('DEBUG', default=False, cast=bool)
 DEBUG=True
 
-ALLOWED_HOST = ['gxarerkpceldejv.bct.itclub.pp.ua']
+ALLOWED_HOST = ['http://gxarerkpceldejv.bct.itclub.pp.ua']
 
 
 
