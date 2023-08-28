@@ -29,7 +29,8 @@ config_path = os.path.join(BASE_DIR, '.env')
 # print(f"DEBUG from .env: {config('DEBUG', default=False, cast=bool)}")
 
 SECRET_KEY = config('SECRET_KEY')
-DEBUG = config('DEBUG', default=False, cast=bool)
+# DEBUG = config('DEBUG', default=False, cast=bool)
+DEBUG=True
 
 ALLOWED_HOST = ['*']
 
