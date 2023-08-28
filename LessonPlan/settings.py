@@ -181,10 +181,10 @@ SIMPLE_JWT = {
 }
 
 
-CORS_ALLOWED_ORIGINS = [
-    "http://enrotoutstxctmw.bct.itclub.pp.ua/",
+# CORS_ALLOWED_ORIGINS = [
+#     "http://enrotoutstxctmw.bct.itclub.pp.ua/",
 
-]
+# ]
 
 CORS_ORIGIN_ALLOW_ALL = True
 
